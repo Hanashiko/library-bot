@@ -122,3 +122,7 @@
 - books, authors, genres
 - Зв’язувальні таблиці: book_author, book_genre
 - users, borrows (видачі), debts (прострочення)
+
+## 📄 Ліцензія
+
+MIT License
